@@ -1,0 +1,3 @@
+laptop|2000.0
+Mouse|100.0
+Headset|200.0
