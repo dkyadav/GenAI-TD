@@ -4,3 +4,6 @@
 
 ## Assignment 2
 >python3 control_flow_assignment.py
+
+## Assignment 3
+>Run cells in functions_assignment.ipynb
