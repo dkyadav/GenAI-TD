@@ -1,0 +1,28 @@
+# Text files
+*.txt
+
+# Zip files
+*.zip
+
+# Virtual environment folders
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
