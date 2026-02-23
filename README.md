@@ -10,3 +10,7 @@
 
 ## Assignment 4
 >Run cells in file_handling_assignment.ipynb
+
+## Assignment 5
+>Run main.py in modules_assignment/
+>Run call_module.py in /
